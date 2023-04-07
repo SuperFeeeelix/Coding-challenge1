@@ -17,5 +17,5 @@ areas to improve is CSS compiliting and getting a better understandment. better 
 ![Alt text](assets/images/salisbury_module1.png "screenshot")
 
 # acknowledgements
-this project was inspired by UCSD bootcamp that allowed me to access code and help organize the coding structure. This project was based on w3schools with helping figure step by step code structures organizations. many thanks to UCSD, W3schools,my classmates, and my professor for this project.
+this project was inspired by UCSD bootcamp that allowed me to access code and help organize the coding structure. This project was based on w3schools with helping figure step by step code structures organizations. many thanks to UCSD, W3schools,my classmates, and my professor, TA for gitbash help, and the developer of the code starter for us to wokr on for the class.
 https://www.w3schools.com/html/html_form_elements.asp
